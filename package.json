@@ -1,0 +1,22 @@
+{
+  "name": "image-holder",
+  "version": "1.0.0",
+  "description": "图片占位服务",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://gitlab.shinemo.com/chenf/image-holder.git"
+  },
+  "keywords": [
+    "图片占位"
+  ],
+  "author": "weekeight",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4",
+    "nodemon": "^1.9.0"
+  }
+}
