@@ -20,6 +20,7 @@
 
 ```
 cd image-holder
+npm install
 npm start
 ```
 
