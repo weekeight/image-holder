@@ -4,7 +4,7 @@
   "description": "图片占位服务",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon --harmony_destructuring index.js"
   },
   "repository": {
     "type": "git",
